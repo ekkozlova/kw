@@ -1,0 +1,35 @@
+
+
+.navcontent {
+    width: 15%;
+    height: 150px;
+    box-shadow: 5px 5px 1px 0px #000;
+}
+
+.tit {
+    font-size: 30px;
+}
+
+.navcont {
+    list-style-type: none;
+    font-size: 20px;
+    color: #000;
+    opacity: 0.8;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+.navcont a {
+    list-style-type: none;
+    font-size: 20px;
+    color: #000;
+    opacity: 0.6;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.navcont a:hover {
+    opacity: 1;
+}
